@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1518366912 source:c:\_perso_\playkonx\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1518366912 c:\_perso_\playkonx\resource.h
+
+1519281920 source:c:\_perso_\playkonx\generator_ay.cpp
+	<windows.h>
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"generator_ay.h"
+
+1519281932 c:\_perso_\playkonx\generator_ay.h
+
+1519289444 source:c:\_perso_\playkonx\main.cpp
+	<stdint.h>
+	<windows.h>
+	<winuser.h>
+	<stdio.h>
+	<math.h>
+	<mmsystem.h>
+	<commctrl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"soundengine.h"
+	"parser_ym.h"
+	"generator_ay.h"
+	"resource.h"
+
+1519263400 c:\_perso_\playkonx\soundengine.h
+
+1519290220 c:\_perso_\playkonx\parser_ym.h
+
+1519284782 source:c:\_perso_\playkonx\soundengine.cpp
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	<math.h>
+	"parser_ym.h"
+	"soundengine.h"
+
+1520803291 source:c:\_perso_\playkonx\parser_ym.cpp
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	"generator_ay.h"
+	"soundengine.h"
+	"parser_ym.h"
+

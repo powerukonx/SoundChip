@@ -1,0 +1,45 @@
+#ifndef IDC_STATIC
+#define IDC_STATIC (-1)
+#endif
+
+#define IDD_DIALOG1                             100
+#define IDI_ICON1                               109
+#define IDR_MENU1                               116
+#define IDB_BITMAP1                             117
+#define IDB_CHANOFF                             120
+#define IDB_CHANON                              121
+#define IDFILEADD                               40000
+#define IDTIMELINE                              40001
+#define ID_LOOP_PLAYLIST                        40002
+#define IDFILESUB                               40003
+#define ID_FREQ_SINCLAIR                        40004
+#define ID_FREQ_MSX                             40005
+#define ID_FREQ_ATARI                           40006
+#define IDMASTER_L                              40007
+#define IDMASTER_R                              40008
+#define ID_VISU_CHANNELB                        40009
+#define ID_VISU_CHANNELC                        40010
+#define ID_PLAYLIST                             40011
+#define ID_LOOP_SONG                            40012
+#define ID_LOOP_NO                              40013
+#define IDAUTHORNAME                            40014
+#define IDSONGNAME                              40015
+#define IDSONGCOMMENT                           40016
+#define ID_ACC_PROG                             40017
+#define IDCHANNELA                              40018
+#define IDCHANNELB                              40019
+#define IDCHANNELC                              40020
+#define ID_FREQ_EXPE                            40021
+#define IDWAVEAB                                40022
+#define IDWAVEBC                                40023
+#define ID_VISU_CHANNELA                        40024
+#define IDTIMEELAPSED                           40025
+#define ID_FREQ_AMSTRAD                         40026
+#define IDCHECKFILTER                           40027
+#define IDSTATICSCUTOFF                         40028
+#define IDSLIDERCUTOFF                          40029
+#define ID_START                                40030
+#define ID_SID_CHANNELA                         40031
+#define ID_SID_CHANNELB                         40032
+#define ID_SID_CHANNELC                         40033
+#define ID_VOL_ASSOCIATE                        40034
