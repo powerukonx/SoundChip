@@ -58,3 +58,62 @@
 	"soundengine.h"
 	"parser_ym.h"
 
+1552418511 source:d:\github\soundchip\playkonx\generator_ay.cpp
+	<windows.h>
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"generator_ay.h"
+
+1552418511 d:\github\soundchip\playkonx\generator_ay.h
+
+1552418511 source:d:\github\soundchip\playkonx\main.cpp
+	<stdint.h>
+	<windows.h>
+	<winuser.h>
+	<stdio.h>
+	<math.h>
+	<mmsystem.h>
+	<commctrl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"soundengine.h"
+	"parser_ym.h"
+	"generator_ay.h"
+	"resource.h"
+
+1552418511 d:\github\soundchip\playkonx\soundengine.h
+
+1552418511 d:\github\soundchip\playkonx\parser_ym.h
+
+1552418511 d:\github\soundchip\playkonx\resource.h
+
+1552418511 source:d:\github\soundchip\playkonx\parser_ym.cpp
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	"generator_ay.h"
+	"soundengine.h"
+	"parser_ym.h"
+
+1552418511 source:d:\github\soundchip\playkonx\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1552418511 source:d:\github\soundchip\playkonx\soundengine.cpp
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	<math.h>
+	"parser_ym.h"
+	"soundengine.h"
+
