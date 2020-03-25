@@ -1,0 +1,651 @@
+# depslib dependency file v1.0
+1518366912 source:c:\_perso_\playkonx\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1518366912 c:\_perso_\playkonx\resource.h
+
+1519281920 source:c:\_perso_\playkonx\generator_ay.cpp
+	<windows.h>
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"generator_ay.h"
+
+1519281932 c:\_perso_\playkonx\generator_ay.h
+
+1519289444 source:c:\_perso_\playkonx\main.cpp
+	<stdint.h>
+	<windows.h>
+	<winuser.h>
+	<stdio.h>
+	<math.h>
+	<mmsystem.h>
+	<commctrl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"soundengine.h"
+	"parser_ym.h"
+	"generator_ay.h"
+	"resource.h"
+
+1519263400 c:\_perso_\playkonx\soundengine.h
+
+1519290220 c:\_perso_\playkonx\parser_ym.h
+
+1519284782 source:c:\_perso_\playkonx\soundengine.cpp
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	<math.h>
+	"parser_ym.h"
+	"soundengine.h"
+
+1520803291 source:c:\_perso_\playkonx\parser_ym.cpp
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	"generator_ay.h"
+	"soundengine.h"
+	"parser_ym.h"
+
+1537271008 source:d:\demoscene\dev\playkonx\generator_ay.cpp
+	<windows.h>
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"generator_ay.h"
+
+1522564089 d:\demoscene\dev\playkonx\generator_ay.h
+
+1537423648 source:d:\demoscene\dev\playkonx\main.cpp
+	<stdint.h>
+	<windows.h>
+	<winuser.h>
+	<stdio.h>
+	<math.h>
+	<mmsystem.h>
+	<commctrl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"soundengine.h"
+	"emu_ym2149.h"
+	"parser_ym.h"
+	"resource.h"
+
+1522564089 d:\demoscene\dev\playkonx\soundengine.h
+
+1537426396 d:\demoscene\dev\playkonx\parser_ym.h
+
+1522564089 d:\demoscene\dev\playkonx\resource.h
+
+1537424293 source:d:\demoscene\dev\playkonx\parser_ym.cpp
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	"emu_ym2149.h"
+	"soundengine.h"
+	"parser_ym.h"
+
+1522564089 source:d:\demoscene\dev\playkonx\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1522564089 source:d:\demoscene\dev\playkonx\soundengine.cpp
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	<math.h>
+	"parser_ym.h"
+	"soundengine.h"
+
+1537428659 source:d:\demoscene\dev\playkonx\emu_ym2149.cpp
+	<windows.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"emu_ym2149.h"
+
+1537431785 d:\demoscene\dev\playkonx\emu_ym2149.h
+
+1537432259 source:c:\users\power\desktop\playkonx\emu_ym2149.cpp
+	<windows.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"emu_ym2149.h"
+
+1537435385 c:\users\power\desktop\playkonx\emu_ym2149.h
+
+1537558219 source:c:\users\power\desktop\playkonx\main.cpp
+	<stdint.h>
+	<windows.h>
+	<winuser.h>
+	<stdio.h>
+	<math.h>
+	<mmsystem.h>
+	<commctrl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"soundengine.h"
+	"emu_ym2149.h"
+	"emu_sn76489.h"
+	"parser_ym.h"
+	"parser_vgm.h"
+	"resource.h"
+
+1522567689 c:\users\power\desktop\playkonx\soundengine.h
+
+1537429996 c:\users\power\desktop\playkonx\parser_ym.h
+
+1522567689 c:\users\power\desktop\playkonx\resource.h
+
+1537427893 source:c:\users\power\desktop\playkonx\parser_ym.cpp
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	"emu_ym2149.h"
+	"soundengine.h"
+	"parser_ym.h"
+
+1522567689 source:c:\users\power\desktop\playkonx\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1537604659 source:c:\users\power\desktop\playkonx\soundengine.cpp
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	<math.h>
+	"parser_ym.h"
+	"emu_sn76489.h"
+	"soundengine.h"
+	"parser_vgm.h"
+
+1537602322 source:c:\users\power\desktop\playkonx\emu_sn76489.cpp
+	<windows.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"emu_sn76489.h"
+
+1537602384 c:\users\power\desktop\playkonx\emu_sn76489.h
+
+1537604772 source:c:\users\power\desktop\playkonx\parser_vgm.cpp
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	"emu_sn76489.h"
+	"soundengine.h"
+	"parser_vgm.h"
+
+1537604696 c:\users\power\desktop\playkonx\parser_vgm.h
+
+1537790079 source:d:\playkonx\emu_sn76489.cpp
+	<windows.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"emu_sn76489.h"
+
+1537788903 d:\playkonx\emu_sn76489.h
+
+1537786623 source:d:\playkonx\parser_vgm.cpp
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	"emu_sn76489.h"
+	"soundengine.h"
+	"parser_vgm.h"
+
+1537732062 d:\playkonx\soundengine.h
+	"parser_ym.h"
+
+1537601096 d:\playkonx\parser_vgm.h
+
+1522564089 source:d:\playkonx\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1522564089 d:\playkonx\resource.h
+
+1537807359 source:d:\playkonx\soundengine.cpp
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	<math.h>
+	"emu_sn76489.h"
+	"soundengine.h"
+	"parser_vgm.h"
+
+1537732331 source:d:\playkonx\main.cpp
+	<stdint.h>
+	<windows.h>
+	<winuser.h>
+	<stdio.h>
+	<math.h>
+	<mmsystem.h>
+	<commctrl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"soundengine.h"
+	"emu_sn76489.h"
+	"parser_ym.h"
+	"parser_vgm.h"
+	"resource.h"
+
+1537428659 source:d:\playkonx\emu_ym2149.cpp
+	<windows.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"emu_ym2149.h"
+
+1537705474 d:\playkonx\emu_ym2149.h
+
+1537731398 source:d:\playkonx\parser_ym.cpp
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	"emu_ym2149.h"
+	"soundengine.h"
+	"parser_ym.h"
+
+1537731350 d:\playkonx\parser_ym.h
+
+1537793679 source:f:\playkonx\emu_sn76489.cpp
+	<windows.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"emu_sn76489.h"
+
+1537792503 f:\playkonx\emu_sn76489.h
+
+1537432259 source:f:\playkonx\emu_ym2149.cpp
+	<windows.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"emu_ym2149.h"
+
+1537709074 f:\playkonx\emu_ym2149.h
+
+1537735931 source:f:\playkonx\main.cpp
+	<stdint.h>
+	<windows.h>
+	<winuser.h>
+	<stdio.h>
+	<math.h>
+	<mmsystem.h>
+	<commctrl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"soundengine.h"
+	"emu_sn76489.h"
+	"parser_ym.h"
+	"parser_vgm.h"
+	"resource.h"
+
+1537735662 f:\playkonx\soundengine.h
+	"parser_ym.h"
+
+1537734950 f:\playkonx\parser_ym.h
+
+1537604696 f:\playkonx\parser_vgm.h
+
+1522567689 f:\playkonx\resource.h
+
+1537790223 source:f:\playkonx\parser_vgm.cpp
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	"emu_sn76489.h"
+	"soundengine.h"
+	"parser_vgm.h"
+
+1537734998 source:f:\playkonx\parser_ym.cpp
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	"emu_ym2149.h"
+	"soundengine.h"
+	"parser_ym.h"
+
+1522567689 source:f:\playkonx\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1537794177 source:f:\playkonx\soundengine.cpp
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	<math.h>
+	"emu_sn76489.h"
+	"soundengine.h"
+	"parser_vgm.h"
+
+1537790079 source:g:\playkonx\emu_sn76489.cpp
+	<windows.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"emu_sn76489.h"
+
+1537788903 g:\playkonx\emu_sn76489.h
+
+1537428659 source:g:\playkonx\emu_ym2149.cpp
+	<windows.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"emu_ym2149.h"
+
+1537705474 g:\playkonx\emu_ym2149.h
+
+1537732331 source:g:\playkonx\main.cpp
+	<stdint.h>
+	<windows.h>
+	<winuser.h>
+	<stdio.h>
+	<math.h>
+	<mmsystem.h>
+	<commctrl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"soundengine.h"
+	"emu_sn76489.h"
+	"parser_ym.h"
+	"parser_vgm.h"
+	"resource.h"
+
+1537732062 g:\playkonx\soundengine.h
+	"parser_ym.h"
+
+1537731350 g:\playkonx\parser_ym.h
+
+1537601096 g:\playkonx\parser_vgm.h
+
+1522564089 g:\playkonx\resource.h
+
+1537786623 source:g:\playkonx\parser_vgm.cpp
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	"emu_sn76489.h"
+	"soundengine.h"
+	"parser_vgm.h"
+
+1537731398 source:g:\playkonx\parser_ym.cpp
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	"emu_ym2149.h"
+	"soundengine.h"
+	"parser_ym.h"
+
+1522564089 source:g:\playkonx\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1548870414 source:g:\playkonx\soundengine.cpp
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	<math.h>
+	"emu_sn76489.h"
+	"soundengine.h"
+	"parser_vgm.h"
+
+1537790080 source:c:\users\emeric\desktop\nouveau dossier\nouveau dossier (6)\nouveau dossier (2)\playkonx\emu_sn76489.cpp
+	<windows.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"emu_sn76489.h"
+
+1537788904 c:\users\emeric\desktop\nouveau dossier\nouveau dossier (6)\nouveau dossier (2)\playkonx\emu_sn76489.h
+
+1537428660 source:c:\users\emeric\desktop\nouveau dossier\nouveau dossier (6)\nouveau dossier (2)\playkonx\emu_ym2149.cpp
+	<windows.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"emu_ym2149.h"
+
+1537705476 c:\users\emeric\desktop\nouveau dossier\nouveau dossier (6)\nouveau dossier (2)\playkonx\emu_ym2149.h
+
+1537732332 source:c:\users\emeric\desktop\nouveau dossier\nouveau dossier (6)\nouveau dossier (2)\playkonx\main.cpp
+	<stdint.h>
+	<windows.h>
+	<winuser.h>
+	<stdio.h>
+	<math.h>
+	<mmsystem.h>
+	<commctrl.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"soundengine.h"
+	"emu_sn76489.h"
+	"parser_ym.h"
+	"parser_vgm.h"
+	"resource.h"
+
+1537732064 c:\users\emeric\desktop\nouveau dossier\nouveau dossier (6)\nouveau dossier (2)\playkonx\soundengine.h
+	"parser_ym.h"
+
+1537731352 c:\users\emeric\desktop\nouveau dossier\nouveau dossier (6)\nouveau dossier (2)\playkonx\parser_ym.h
+
+1537601098 c:\users\emeric\desktop\nouveau dossier\nouveau dossier (6)\nouveau dossier (2)\playkonx\parser_vgm.h
+
+1522564090 c:\users\emeric\desktop\nouveau dossier\nouveau dossier (6)\nouveau dossier (2)\playkonx\resource.h
+
+1537786624 source:c:\users\emeric\desktop\nouveau dossier\nouveau dossier (6)\nouveau dossier (2)\playkonx\parser_vgm.cpp
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	"emu_sn76489.h"
+	"soundengine.h"
+	"parser_vgm.h"
+
+1537731400 source:c:\users\emeric\desktop\nouveau dossier\nouveau dossier (6)\nouveau dossier (2)\playkonx\parser_ym.cpp
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	"emu_ym2149.h"
+	"soundengine.h"
+	"parser_ym.h"
+
+1522564090 source:c:\users\emeric\desktop\nouveau dossier\nouveau dossier (6)\nouveau dossier (2)\playkonx\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1548870416 source:c:\users\emeric\desktop\nouveau dossier\nouveau dossier (6)\nouveau dossier (2)\playkonx\soundengine.cpp
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	<math.h>
+	"emu_sn76489.h"
+	"soundengine.h"
+	"parser_vgm.h"
+
+1537790080 source:d:\github\soundchip\playkonx_sn76489\emu_sn76489.cpp
+	<windows.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"emu_sn76489.h"
+
+1537788904 d:\github\soundchip\playkonx_sn76489\emu_sn76489.h
+
+1537432260 source:d:\github\soundchip\playkonx_sn76489\emu_ym2149.cpp
+	<windows.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"emu_ym2149.h"
+
+1537709076 d:\github\soundchip\playkonx_sn76489\emu_ym2149.h
+
+1558412232 source:d:\github\soundchip\playkonx_sn76489\main.cpp
+	<windows.h>
+	<conio.h>
+	<stdint.h>
+	<stdio.h>
+	"soundengine.h"
+	"emu_sn76489.h"
+	"parser_vgm.h"
+
+1558412146 d:\github\soundchip\playkonx_sn76489\soundengine.h
+
+1537734952 d:\github\soundchip\playkonx_sn76489\parser_ym.h
+
+1537601098 d:\github\soundchip\playkonx_sn76489\parser_vgm.h
+
+1522564090 d:\github\soundchip\playkonx_sn76489\resource.h
+
+1537786624 source:d:\github\soundchip\playkonx_sn76489\parser_vgm.cpp
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	"emu_sn76489.h"
+	"soundengine.h"
+	"parser_vgm.h"
+
+1537735000 source:d:\github\soundchip\playkonx_sn76489\parser_ym.cpp
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	"emu_ym2149.h"
+	"soundengine.h"
+	"parser_ym.h"
+
+1522564090 source:d:\github\soundchip\playkonx_sn76489\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1585123260 source:d:\github\soundchip\playkonx_sn76489\soundengine.cpp
+	<stdint.h>
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+	<commctrl.h>
+	<math.h>
+	"emu_sn76489.h"
+	"soundengine.h"
+	"parser_vgm.h"
+
